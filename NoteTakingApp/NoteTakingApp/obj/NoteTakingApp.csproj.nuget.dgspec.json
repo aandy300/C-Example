@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj": {}
+    "C:\\Users\\admin\\Desktop\\Coding\\C#\\C-Example\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj": {
+    "C:\\Users\\admin\\Desktop\\Coding\\C#\\C-Example\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Coding\\C#\\C-Example\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj",
         "projectName": "NoteTakingApp",
-        "projectPath": "C:\\Users\\admin\\Desktop\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Coding\\C#\\C-Example\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\NoteTakingApp\\NoteTakingApp\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Coding\\C#\\C-Example\\NoteTakingApp\\NoteTakingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

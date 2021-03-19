@@ -52,7 +52,6 @@ namespace NoteTakingApp
             {
                 column.SortMode = DataGridViewColumnSortMode.NotSortable;
             }
-
         }
 
         private void bttNew_Click(object sender, EventArgs e)
@@ -71,7 +70,7 @@ namespace NoteTakingApp
 
         private void bttRead_Click(object sender, EventArgs e)
         {
-            //CurrentCell 呼叫當前的 橫列index
+            //CurrentCell 取得或設定目前的現用儲存格
             int index = dataGridView1.CurrentCell.RowIndex;
 
             if (index > -1)
